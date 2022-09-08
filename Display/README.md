@@ -28,3 +28,7 @@ inline, block, inline-block, list-item, table, flex, none ...
 ```
 
 index.html 에 display 속성값 변경으로 특성들을 바꿔봄 
+
+Block 요소에게는 가로 길이와 세로 길이를 직접 설정해줄 수 있지만, inline 요소는 자동으로 설정
+
+Inline 요소에게는 가로, 세로 길이의 개념이 딱히 없는 셈
